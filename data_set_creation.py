@@ -5,6 +5,8 @@ import time
 '''
 Here it is assumed that PBR node setup is already done manually
 How? First New Material -> click on Principled BSDF -> click Ctrl + Shift + T
+Textures downloaded from https://polyhaven.com/textures
+Hence the naming convention followed by the website is used
 Now save the name of this material as base_material2.001
 '''
 def get_materials(directory_name,part):
