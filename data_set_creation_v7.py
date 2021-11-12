@@ -6,9 +6,13 @@ import random
 '''
 Here it is assumed that PBR node setup is already done manually
 How? First New Material -> click on Principled BSDF -> click Ctrl + Shift + T
-Textures downloaded from https://polyhaven.com/textures
+Textures downloaded from https://ambientcg.com
 Hence the naming convention followed by the website is used
 Now save the name of this material as base_material2.001
+'''
+'''
+set the mix_rgb1 fac to 0.75
+set the mix_rgb2 fac to 0.25
 '''
 def get_materials(directory_name,part):
     '''
