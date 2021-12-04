@@ -10,7 +10,8 @@ Project work done under the supervision of Dr. Sagi Eppel
 PBR textures are stored in : '/home/supratik/Pictures/blender_progression/textures/ambientcg'
 Dataset is stored in: '/home/supratik/Pictures/blender_progression/data_set/'
 Blender is running in: '/home/supratik/Downloads/blender'
-By the way, did you get the sample dataset, I shared it with you 2 days back.
-Also, I have came to know that my report submission deadline has been delayed to 6th December.
+Sample dataset can be found at this link: https://drive.google.com/drive/folders/10eAnbm4eHnkoIeNKqnkG19xnLS-TfWEN?usp=sharing
+Also opencv does not work directly in Blender, if you have not used it earlier. To fix this, use this answer:
+https://blender.stackexchange.com/a/122337
 Thanks and Regards,
 Supratik
